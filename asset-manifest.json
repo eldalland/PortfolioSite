@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PortfolioSite/static/css/main.5ffe86d6.chunk.css",
+    "main.js": "/PortfolioSite/static/js/main.ed6105c5.chunk.js",
+    "main.js.map": "/PortfolioSite/static/js/main.ed6105c5.chunk.js.map",
+    "runtime-main.js": "/PortfolioSite/static/js/runtime-main.49230ddf.js",
+    "runtime-main.js.map": "/PortfolioSite/static/js/runtime-main.49230ddf.js.map",
+    "static/js/2.96f6d44d.chunk.js": "/PortfolioSite/static/js/2.96f6d44d.chunk.js",
+    "static/js/2.96f6d44d.chunk.js.map": "/PortfolioSite/static/js/2.96f6d44d.chunk.js.map",
+    "index.html": "/PortfolioSite/index.html",
+    "static/css/main.5ffe86d6.chunk.css.map": "/PortfolioSite/static/css/main.5ffe86d6.chunk.css.map",
+    "static/js/2.96f6d44d.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.96f6d44d.chunk.js.LICENSE.txt",
+    "static/media/PortfoImg.336a4f93.jpg": "/PortfolioSite/static/media/PortfoImg.336a4f93.jpg",
+    "static/media/annika1.feb1fd9d.jpg": "/PortfolioSite/static/media/annika1.feb1fd9d.jpg",
+    "static/media/erik.jpg": "/PortfolioSite/static/media/erik.393e5d3e.jpg",
+    "static/media/p5jsgame.44ba2ab5.png": "/PortfolioSite/static/media/p5jsgame.44ba2ab5.png",
+    "static/media/video.fe363c10.mp4": "/PortfolioSite/static/media/video.fe363c10.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49230ddf.js",
+    "static/js/2.96f6d44d.chunk.js",
+    "static/css/main.5ffe86d6.chunk.css",
+    "static/js/main.ed6105c5.chunk.js"
+  ]
+}
